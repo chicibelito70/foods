@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mis comidas favoritas</string>
+    <string name="delete_msg">Esta seguro que desea eliminar el alimento</string>
+</resources>
